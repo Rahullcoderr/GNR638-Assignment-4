@@ -54,6 +54,7 @@ This project implements a Convolutional Neural Network (CNN) for image classific
 4. Observe optimizer performance and select the best one.
 
 ## Results
+![Alt text](Screenshot 2025-03-13 at 8.27.44 PM)
 Adamax, Adam, Nadam gives very good validation accuracy of 80%, and these are the best optimizers for this dataset and our architecture
 
 
