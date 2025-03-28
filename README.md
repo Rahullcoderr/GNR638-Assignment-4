@@ -1,4 +1,4 @@
-# GNR638-Assignment-4
+# GNR638-Assignment-4/ Theory Assignment 2
 Theory assignment and Coding assignment both are in this repo.
 
 Rahul B 22b3976
